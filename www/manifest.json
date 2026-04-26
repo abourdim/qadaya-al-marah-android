@@ -1,0 +1,12 @@
+{
+  "name": "Women's Issues — قضايا المرأة",
+  "short_name": "قضايا المرأة",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book on women's rights in Islam",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#AD1457",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
